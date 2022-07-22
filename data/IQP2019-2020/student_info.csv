@@ -1,0 +1,1127 @@
+StudentID,Gender,Major
+1,Female,Aerospace Engineering
+2,Male,Management Information Systems
+3,Male,Biomedical Engineering
+4,Female,Biology and Biotechnology
+5,Female,Industrial Engineering
+6,Male,Computer Science
+7,Female,Mechanical Engineering
+8,Male,Computer Science
+9,Male,Biology and Biotechnology
+10,Male,Computer Science
+11,Female,Biochemistry
+12,Male,Mechanical Engineering
+13,Female,Mechanical Engineering
+14,Female,Computer Science
+15,Female,Biology and Biotechnology
+16,Female,Chemical Engineering
+17,Female,Biomedical Engineering
+18,Male,Aerospace Engineering
+19,Female,Computer Science
+20,Female,Mechanical Engineering
+21,Female,Biology and Biotechnology 
+22,Female,Computer Science
+23,Male,Civil Engineering
+24,Male,Physics and Computer Science
+25,Male,Mechanical Engineering
+26,Male,Electrical &amp; Computer Eng.
+27,Female,Chemical Engineering
+28,Female,Biomedical Engineering
+29,Female,Computer Science
+30,Female,Computer Science
+31,Female,Mechanical Engineering
+32,Female,Biomedical Engineering
+33,Male,Applied Physics
+34,Male,Computer Science
+35,Male,Civil Engineering
+36,Female,Mechanical Engineering
+37,Female,Biomedical Engineering
+38,Male,Aerospace Engineering
+39,Male,Robotics Engineering
+40,Male,Computer Science
+41,Male,Robotics Engineering
+42,Male,Mechanical Engineering
+43,Male,Civil Engineering
+44,Female,Biomedical Engineering
+45,Female,Biology and Biotechnology
+46,Male,Industrial Engineering
+47,Male,Bioinformatics &amp; Computat Bio
+48,Male,Electrical &amp; Computer Eng.
+49,Male,Physics
+50,Female,Mechanical Engineering
+51,Male,Mechanical Engineering
+52,Female,Computer Science
+53,Female,Biology and Biotechnology
+54,Male,Robotics Engineering
+55,Female,Biochemistry
+56,Female,Biochemistry
+57,Male,Robotics Engineering
+58,Female,Mechanical Engineering
+59,Male,Biomedical Engineering
+60,Female,Chemical Engineering
+61,Male,Mechanical Engineering
+62,Male,Computer Science
+63,Female,Chemical Engineering
+64,Female,Biomedical Engineering
+65,Male,Robotics Engineering
+66,Male,Computer Science
+67,Female,Biology and Biotechnology
+68,Female,Environmental Engineering
+69,Male,Mechanical Engineering
+70,Male,Mechanical Engineering
+71,Female,Biomedical Engineering
+72,Female,Biomedical Engineering
+73,Male,Mechanical Engineering
+74,Male,Chemical Engineering
+75,Female,Biomedical Engineering
+76,Female,Computer Science
+77,Female,Aerospace Engineering
+78,Male,Mechanical Engineering
+79,Female,Environmental Engineering
+80,Female,Chemical Engineering
+81,Female,Industrial Engineering
+82,Female,Chemical Engineering
+83,Female,Biomedical Engineering
+84,Female,Biomedical Engineering
+85,Female,Chemical Engineering
+86,Male,Mechanical Engineering
+87,Female,Environmental Engineering
+88,Female,Chemical Engineering
+89,Female,Mechanical Engineering
+90,Male,Mechanical Engineering
+91,Female,Biomedical Engineering
+92,Female,Chemical Engineering
+93,Female,Mechanical Engineering
+94,Female,Psychological Science
+95,Female,Biomedical Engineering
+96,Male,Chemistry
+97,Female,Actuarial Mathematics
+98,Female,Biology and Biotechnology
+99,Female,Mechanical Engineering
+100,Female,Biomedical Engineering
+101,Female,Computer Science
+102,Male,Aerospace Engineering
+103,Female,Computer Science
+104,Male,Mechanical Engineering
+105,Female,Engineering - To Be Declared
+106,Female,Actuarial Mathematics
+107,Female,Mathematical Sciences
+108,Female,Biomedical Engineering
+109,Male,Computer Science
+110,Female,Biomedical Engineering
+111,Female,Mechanical Engineering
+112,Female,Mathematical Sciences
+113,Female,Physics
+114,Female,Chemical Engineering
+115,Female,Mechanical Engineering
+116,Female,Physics
+117,Female,Mechanical Engineering
+118,Female,Biomedical Engineering
+119,Female,Biomedical Engineering
+120,Male,Biomedical Engineering
+121,Male,Mechanical Engineering
+122,Male,Robotics Engineering
+123,Male,Robotics Engineering
+124,Female,Aerospace Engineering
+125,Female,Biomedical Engineering
+126,Male,Aerospace Engineering
+127,Male,Mechanical Engineering
+128,Female,Chemical Engineering
+129,Female,Chemistry
+130,Male,Civil Engineering
+131,Male,Electrical &amp; Computer Eng.
+132,Female,Industrial Engineering
+133,Female,Electrical &amp; Computer Eng.
+134,Female,Actuarial Mathematics
+135,Female,Industrial Engineering
+136,Female,Biomedical Engineering
+137,Female,Biomedical Engineering
+138,Female,Computer Science
+139,Female,Electrical &amp; Computer Eng.
+140,Female,Interactive Media &amp; Game Dev
+141,Female,Mechanical Engineering
+142,Female,Environmental Engineering
+143,Female,Mathematical Sciences
+144,Male,Biomedical Engineering
+145,Male,Mechanical Engineering
+146,Female,Architectural Engineering
+147,Male,Aerospace Engineering
+148,Female,Computer Science
+149,Female,Mechanical Engineering
+150,Male,Electrical &amp; Computer Eng.
+151,Male,Computer Science
+152,Male,Electrical &amp; Computer Eng.
+153,Female,Environmental Engineering
+154,Male,Computer Science
+155,Female,Aerospace Engineering
+156,Male,Chemical Engineering
+157,Male,Chemical Engineering
+158,Male,Mechanical Engineering
+159,Male,Robotics Engineering
+160,Female,Robotics Engineering
+161,Female,Chemical Engineering
+162,Male,Computer Science
+163,Male,Civil Engineering
+164,Female,Biochemistry
+165,Male,Civil Engineering
+166,Male,Chemical Engineering
+167,Male,Computer Science
+168,Female,Architectural Engineering
+169,Female,Undecided
+170,Male,Aerospace Engineering
+171,Male,Mechanical Engineering
+172,Female,Biochemistry
+173,Male,Biomedical Engineering
+174,Male,Biomedical Engineering
+175,Female,Biomedical Engineering
+176,Female,Biomedical Engineering
+177,Female,Biomedical Engineering
+178,Female,Biomedical Engineering
+179,Male,Management Engineering
+180,Male,Electrical &amp; Computer Eng.
+181,Female,Mechanical Engineering
+182,Male,Computer Science
+183,Female,Biomedical Engineering
+184,Female,Chemical Engineering
+185,Male,Computer Science
+186,Male,Chemical Engineering
+187,Male,Biomedical Engineering
+188,Female,Computer Science
+189,Male,Electrical &amp; Computer Eng.
+190,Male,Computer Science
+191,Male,Aerospace Engineering
+192,Female,Civil Engineering
+193,Female,Chemical Engineering
+194,Female,Computer Science
+195,Female,Aerospace Engineering
+196,Male,Computer Science
+197,Male,Electrical &amp; Computer Eng.
+198,Female,Mechanical Engineering
+199,Male,Computer Science
+200,Male,Civil Engineering
+201,Male,Electrical &amp; Computer Eng.
+202,Male,Mechanical Engineering
+203,Male,Mechanical Engineering
+204,Male,Mechanical Engineering
+205,Male,Aerospace Engineering
+206,Male,Robotics Engineering
+207,Male,Electrical &amp; Computer Eng.
+208,Male,Robotics Engineering
+209,Male,Mechanical Engineering
+210,Male,Chemical Engineering
+211,Female,Chemistry
+212,Female,Biomedical Engineering
+213,Female,Robotics Engineering
+214,Male,Computer Science
+215,Male,Computer Science
+216,Male,Civil Engineering
+217,Female,Biomedical Engineering
+218,Male,Chemistry
+219,Male,Management Engineering
+220,Female,Biology and Biotechnology
+221,Female,Biotechnology
+222,Female,Business
+223,Male,Biomedical Engineering
+224,Female,Computer Science
+225,Female,Biomedical Engineering
+226,Female,Industrial Engineering
+227,Female,Biomedical Engineering
+228,Female,Chemistry
+229,Male,Biomedical Engineering
+230,Male,Computer Science
+231,Female,Chemical Engineering
+232,Male,Chemical Engineering
+233,Male,Robotics Engineering
+234,Female,Biomedical Engineering
+235,Female,Computer Science
+236,Female,Biomedical Engineering
+237,Female,Computer Science
+238,Female,Mechanical Engineering
+239,Male,Biomedical Engineering
+240,Female,Biomedical Engineering
+241,Male,Actuarial Mathematics
+242,Male,Computer Science
+243,Male,Computer Science
+244,Male,Computer Science
+245,Female,Mechanical Engineering
+246,Female,Electrical &amp; Computer Eng.
+247,Female,Robotics Engineering
+248,Male,Mechanical Engineering
+249,Female,Chemical Engineering
+250,Male,Aerospace Engineering
+251,Female,Biomedical Engineering
+252,Female,Computer Science
+253,Female,Chemical Engineering
+254,Male,Physics
+255,Female,Robotics Engineering
+256,Female,Biomedical Engineering
+257,Female,Mechanical Engineering
+258,Male,Computer Science
+259,Female,Biology and Biotechnology
+260,Male,Computer Science
+261,Male,Aerospace Engineering
+262,Male,Computer Science
+263,Male,Computer Science
+264,Male,Civil Engineering
+265,Female,Chemical Engineering
+266,Female,Biology and Biotechnology
+267,Female,Biology and Biotechnology
+268,Female,Biochemistry
+269,Female,Mechanical Engineering
+270,Male,Electrical &amp; Computer Eng.
+271,Male,Robotics Engineering
+272,Female,Mechanical Engineering
+273,Male,Biomedical Engineering
+274,Female,Biomedical Engineering
+275,Male,Robotics Engineering
+276,Male,Aerospace Engineering
+277,Female,Chemical Engineering
+278,Male,Chemical Engineering
+279,Female,Aerospace Engineering
+280,Male,Computer Science
+281,Female,Chemical Engineering
+282,Male,Electrical &amp; Computer Eng.
+283,Male,Robotics Engineering
+284,Female,Biomedical Engineering
+285,Male,Computer Science
+286,Male,Civil Engineering
+287,Male,Computer Science
+288,Male,Robotics Engineering
+289,Female,Mechanical Engineering
+290,Female,Mechanical Engineering
+291,Male,Mechanical Engineering
+292,Male,Mechanical Engineering
+293,Male,Chemistry
+294,Female,Robotics Engineering
+295,Male,Mechanical Engineering
+296,Female,Environmental Engineering
+297,Female,Computer Science
+298,Male,Mechanical Engineering
+299,Male,Biomedical Engineering
+300,Female,Physics
+301,Female,Biochemistry
+302,Female,Electrical &amp; Computer Eng.
+303,Female,Computer Science
+304,Male,Robotics Engineering
+305,Female,Environmental Engineering
+306,Female,Biomedical Engineering
+307,Female,Civil Engineering
+308,Male,Mechanical Engineering
+309,Male,Mechanical Engineering
+310,Male,Robotics Engineering
+311,Male,Chemical Engineering
+312,Male,Computer Science
+313,Male,Int Media &amp; Game Dev-Tech
+314,Female,Aerospace Engineering
+315,Female,Computer Science
+316,Female,Electrical &amp; Computer Eng.
+317,Female,Robotics Engineering
+318,Female,Mechanical Engineering
+319,Male,Computer Science
+320,Male,Computer Science
+321,Female,Undecided
+322,Male,Biomedical Engineering
+323,Male,Mechanical Engineering
+324,Male,Robotics Engineering
+325,Female,Architectural Engineering
+326,Female,Biochemistry
+327,Male,Computer Science
+328,Male,Civil Engineering
+329,Female,Environmental Engineering
+330,Female,Biomedical Engineering
+331,Male,Chemical Engineering
+332,Female,Biomedical Engineering
+333,Male,Computer Science
+334,Female,Liberal Arts &amp; Engineering
+335,Male,Mechanical Engineering
+336,Male,Mechanical Engineering
+337,Female,Mathematical Sciences
+338,Female,Electrical &amp; Computer Eng.
+339,Male,Chemical Engineering
+340,Female,Mechanical Engineering
+341,Male,Mechanical Engineering
+342,Male,Aerospace Engineering
+343,Female,Biology and Biotechnology
+344,Male,Biomedical Engineering
+345,Male,Mechanical Engineering
+346,Female,Psychological Science
+347,Male,Robotics Engineering
+348,Male,Chemical Engineering
+349,Male,Mathematical Sciences
+350,Female,Biomedical Engineering
+351,Female,Industrial Engineering
+352,Male,Computer Science
+353,Male,Mechanical Engineering
+354,Male,Mechanical Engineering
+355,Male,Aerospace Engineering
+356,Male,Chemical Engineering
+357,Female,Mechanical Engineering
+358,Male,Biology and Biotechnology
+359,Male,Robotics Engineering
+360,Male,Electrical &amp; Computer Eng.
+361,Female,Chemical Engineering
+362,Male,Mechanical Engineering
+363,Female,Mechanical Engineering
+364,Female,Biomedical Engineering
+365,Female,Biomedical Engineering
+366,Male,Electrical &amp; Computer Eng.
+367,Male,Aerospace Engineering
+368,Male,Mechanical Engineering
+369,Female,Mechanical Engineering
+370,Female,Physics
+371,Female,Mechanical Engineering
+372,Male,Mathematical Sciences
+373,Male,Chemical Engineering
+374,Male,Computer Science
+375,Male,Computer Science
+376,Male,Mechanical Engineering
+377,Male,Aerospace Engineering
+378,Female,Mechanical Engineering
+379,Female,Computer Science
+380,Male,Biomedical Engineering
+381,Male,Mechanical Engineering
+382,Male,Mechanical Engineering
+383,Female,Civil Engineering
+384,Female,Mechanical Engineering
+385,Female,Environmental Engineering
+386,Male,Mechanical Engineering
+387,Female,Mechanical Engineering
+388,Male,Biomedical Engineering
+389,Male,Mechanical Engineering
+390,Female,Chemical Engineering
+391,Female,Architectural Engineering
+392,Male,Mechanical Engineering
+393,Female,Biomedical Engineering
+394,Male,Aerospace Engineering
+395,Male,Computer Science
+396,Male,Aerospace Engineering
+397,Male,Biochemistry
+398,Male,Civil Engineering
+399,Male,Computer Science
+400,Male,Mechanical Engineering
+401,Male,Robotics Engineering
+402,Male,Mechanical Engineering
+403,Male,Robotics Engineering
+404,Male,Mechanical Engineering
+405,Male,Biomedical Engineering
+406,Female,Mathematical Sciences
+407,Female,Biomedical Engineering
+408,Male,Mechanical Engineering
+409,Male,Aerospace Engineering
+410,Male,Computer Science
+411,Female,Chemical Engineering
+412,Male,Aerospace Engineering
+413,Female,Biomedical Engineering
+414,Male,Mechanical Engineering
+415,Female,Computer Science
+416,Male,Computer Science
+417,Female,Biomedical Engineering
+418,Female,Biology and Biotechnology
+419,Female,Mechanical Engineering
+420,Male,Chemical Engineering
+421,Male,Computer Science
+422,Male,Chemical Engineering
+423,Male,Aerospace Engineering
+424,Female,Physics
+425,Male,Physics
+426,Male,Robotics Engineering
+427,Female,Electrical &amp; Computer Eng.
+428,Male,Biomedical Engineering
+429,Male,Computer Science
+430,Female,Computer Science
+431,Male,Chemical Engineering
+432,Male,Robotics Engineering
+433,Male,Mechanical Engineering
+434,Female,Chemical Engineering
+435,Male,Biomedical Engineering
+436,Male,Computer Science
+437,Male,Electrical &amp; Computer Eng.
+438,Female,Robotics Engineering
+439,Male,Computer Science
+440,Female,Environmental Engineering
+441,Female,Biomedical Engineering
+442,Male,Aerospace Engineering
+443,Male,Mechanical Engineering
+444,Male,Aerospace Engineering
+445,Male,Mechanical Engineering
+446,Female,Biotechnology
+447,Female,Mechanical Engineering
+448,Male,Mechanical Engineering
+449,Male,Electrical &amp; Computer Eng.
+450,Male,Biology and Biotechnology
+451,Female,Biomedical Engineering
+452,Male,Mathematical Sciences
+453,Female,Computer Science
+454,Female,Engineering - To Be Declared
+455,Female,Biology and Biotechnology
+456,Male,Civil Engineering
+457,Male,Civil Engineering
+458,Male,Computer Science
+459,Male,Electrical &amp; Computer Eng.
+460,Female,Psychological Science
+461,Male,Robotics Engineering
+462,Male,Biomedical Engineering
+463,Female,Mechanical Engineering
+464,Female,Mechanical Engineering
+465,Female,Chemical Engineering
+466,Female,Actuarial Mathematics
+467,Male,Computer Science
+468,Female,Biology and Biotechnology
+469,Female,Mechanical Engineering
+470,Male,Chemical Engineering
+471,Female,Biomedical Engineering
+472,Female,Biochemistry
+473,Female,Biology and Biotechnology
+474,Male,Biochemistry
+475,Male,Mechanical Engineering
+476,Female,Chemical Engineering
+477,Male,Computer Science
+478,Male,Robotics Engineering
+479,Female,Mechanical Engineering
+480,Female,Chemical Engineering
+481,Female,Mathematical Sciences
+482,Female,Biomedical Engineering
+483,Female,Biomedical Engineering
+484,Female,Environ &amp; Sustain Studies
+485,Male,Physics
+486,Female,Physics
+487,Male,Mechanical Engineering
+488,Female,Electrical &amp; Computer Eng.
+489,Female,Chemical Engineering
+490,Male,Civil Engineering
+491,Male,Aerospace Engineering
+492,Male,Robotics Engineering
+493,Male,Mathematical Sciences
+494,Female,Biomedical Engineering
+495,Female,Electrical &amp; Computer Eng.
+496,Male,Chemical Engineering
+497,Male,Mechanical Engineering
+498,Female,Computer Science
+499,Male,Engineering - To Be Declared
+500,Female,Computer Science
+501,Male,Aerospace Engineering
+502,Female,Robotics Engineering
+503,Male,Robotics Engineering
+504,Male,Computer Science
+505,Male,Aerospace Engineering
+506,Female,Biochemistry
+507,Female,Biomedical Engineering
+508,Female,Architectural Engineering
+509,Male,Mechanical Engineering
+510,Male,Electrical &amp; Computer Eng.
+511,Male,Computer Science
+512,Male,Mechanical Engineering
+513,Male,Robotics Engineering
+514,Female,Aerospace Engineering
+515,Male,Computer Science
+516,Male,Computer Science
+517,Female,Industrial Engineering
+518,Male,Aerospace Engineering
+519,Male,Electrical &amp; Computer Eng.
+520,Female,Chemistry
+521,Male,Mechanical Engineering
+522,Male,Robotics Engineering
+523,Male,Civil Engineering
+524,Female,Electrical &amp; Computer Eng.
+525,Female,Industrial Engineering
+526,Male,Electrical &amp; Computer Eng.
+527,Female,Computer Science
+528,Female,Computer Science
+529,Female,Robotics Engineering
+530,Male,Biomedical Engineering
+531,Male,Computer Science
+532,Male,Mechanical Engineering
+533,Male,Mechanical Engineering
+534,Female,Industrial Engineering
+535,Female,Computer Science
+536,Female,Mechanical Engineering
+537,Female,Chemical Engineering
+538,Male,Robotics Engineering
+539,Male,Biomedical Engineering
+540,Female,Electrical &amp; Computer Eng.
+541,Male,Mechanical Engineering
+542,Female,Chemical Engineering
+543,Female,Biochemistry
+544,Male,Mechanical Engineering
+545,Male,Mechanical Engineering
+546,Male,Mechanical Engineering
+547,Male,Undecided
+548,Female,Robotics Engineering
+549,Male,Biomedical Engineering
+550,Male,Aerospace Engineering
+551,Female,Mechanical Engineering
+552,Female,Architectural Engineering
+553,Male,Management Information Systems
+554,Male,Biomedical Engineering
+555,Female,Actuarial Mathematics
+556,Male,Mechanical Engineering
+557,Male,Chemical Engineering
+558,Male,Chemical Engineering
+559,Male,Electrical &amp; Computer Eng.
+560,Male,Mechanical Engineering
+561,Female,Biomedical Engineering
+562,Female,Computer Science
+563,Male,Computer Science
+564,Female,Biology and Biotechnology
+565,Male,Mechanical Engineering
+566,Female,Electrical &amp; Computer Eng.
+567,Male,Mechanical Engineering
+568,Male,Computer Science
+569,Male,Biomedical Engineering
+570,Male,Electrical &amp; Computer Eng.
+571,Male,Management Engineering
+572,Male,Electrical &amp; Computer Eng.
+573,Female,Mechanical Engineering
+574,Female,Mechanical Engineering
+575,Female,Biology and Biotechnology
+576,Female,Mechanical Engineering
+577,Male,Chemical Engineering
+578,Female,Biomedical Engineering
+579,Female,Biomedical Engineering
+580,Male,Chemical Engineering
+581,Male,Mechanical Engineering
+582,Female,Robotics Engineering
+583,Female,Professional Writing
+584,Female,Int Media &amp; Game Dev-Tech
+585,Female,Biomedical Engineering
+586,Female,Industrial Engineering
+587,Male,Computer Science
+588,Male,Int Media &amp; Game Dev-Tech
+589,Male,Chemical Engineering
+590,Female,Aerospace Engineering
+591,Female,Biomedical Engineering
+592,Male,Engineering - To Be Declared
+593,Female,Biomedical Engineering
+594,Male,Management Information Systems
+595,Female,Biology and Biotechnology
+596,Male,Mechanical Engineering
+597,Male,Computer Science
+598,Male,Aerospace Engineering
+599,Male,Actuarial Mathematics
+600,Female,Mechanical Engineering
+601,Male,Computer Science
+602,Male,Mechanical Engineering
+603,Male,Robotics Engineering
+604,Female,Biomedical Engineering
+605,Male,Electrical &amp; Computer Eng.
+606,Male,Aerospace Engineering
+607,Male,Computer Science
+608,Female,Civil Engineering
+609,Male,Robotics Engineering
+610,Female,Civil Engineering
+611,Male,Robotics Engineering
+612,Female,Biology and Biotechnology
+613,Male,Biomedical Engineering
+614,Male,Chemical Engineering
+615,Male,Computer Science
+616,Male,Aerospace Engineering
+617,Female,Biomedical Engineering
+618,Female,Mechanical Engineering
+619,Male,Computer Science
+620,Male,Mechanical Engineering
+621,Male,Computer Science
+622,Male,Biomedical Engineering
+623,Female,"Society, Technology &amp; Policy"
+624,Female,Computer Science
+625,Female,Biology and Biotechnology
+626,Male,Mechanical Engineering
+627,Female,Biomedical Engineering
+628,Male,Computer Science
+629,Female,Environ &amp; Sustain Studies
+630,Female,Aerospace Engineering
+631,Male,Mechanical Engineering
+632,Male,Biomedical Engineering
+633,Female,Mechanical Engineering
+634,Female,Robotics Engineering
+635,Female,Computer Science
+636,Male,Aerospace Engineering
+637,Male,Biomedical Engineering
+638,Male,Bioinformatics &amp; Computat Bio
+639,Male,Aerospace Engineering
+640,Male,Chemical Engineering
+641,Male,Interactive Media &amp; Game Dev
+642,Female,Architectural Engineering
+643,Female,Engineering - To Be Declared
+644,Female,Biomedical Engineering
+645,Male,Int Media &amp; Game Dev-Tech
+646,Male,Robotics Engineering
+647,Male,Mechanical Engineering
+648,Male,Robotics Engineering
+649,Male,Mechanical Engineering
+650,Male,Computer Science
+651,Male,Mechanical Engineering
+652,Male,Electrical &amp; Computer Eng.
+653,Male,Electrical &amp; Computer Eng.
+654,Female,Robotics Engineering
+655,Male,Civil Engineering
+656,Female,Computer Science
+657,Female,Mechanical Engineering
+658,Female,Biomedical Engineering
+659,Male,Chemical Engineering
+660,Male,Computer Science
+661,Male,Robotics Engineering
+662,Female,Bioinformatics &amp; Computat Bio
+663,Male,Biology and Biotechnology
+664,Male,Computer Science
+665,Female,Bioinformatics &amp; Computat Bio
+666,Male,Mechanical Engineering
+667,Male,Computer Science
+668,Male,Mechanical Engineering
+669,Male,Mechanical Engineering
+670,Female,Biomedical Engineering
+671,Female,Biology and Biotechnology
+672,Female,Economic Science
+673,Female,Biomedical Engineering
+674,Male,Computer Science
+675,Female,Civil Engineering
+676,Female,Robotics
+677,Male,Architectural Engineering
+678,Male,Mechanical Engineering
+679,Male,Mechanical Engineering
+680,Male,Chemical Engineering
+681,Male,Civil Engineering
+682,Female,Computer Science
+683,Male,Chemical Engineering
+684,Female,Mechanical Engineering
+685,Male,Mechanical Engineering
+686,Female,Biomedical Engineering
+687,Male,Chemical Engineering
+688,Male,Electrical &amp; Computer Eng.
+689,Female,Robotics Engineering
+690,Male,Mechanical Engineering
+691,Male,Biochemistry
+692,Female,Aerospace Engineering
+693,Female,Computer Science
+694,Male,Biology and Biotechnology
+695,Male,Biomedical Engineering
+696,Male,Aerospace Engineering
+697,Male,Civil Engineering
+698,Male,Psychological Science
+699,Male,Bioinformatics &amp; Computat Bio
+700,Male,Robotics Engineering
+701,Female,Robotics Engineering
+702,Female,Computer Science
+703,Female,Mathematical Sciences
+704,Female,Computer Science
+705,Male,Mechanical Engineering
+706,Male,Aerospace Engineering
+707,Male,Aerospace Engineering
+708,Female,Biomedical Engineering
+709,Male,Computer Science
+710,Male,Computer Science
+711,Male,Biomedical Engineering
+712,Female,Electrical &amp; Computer Eng.
+713,Male,Aerospace Engineering
+714,Male,Aerospace Engineering
+715,Male,Mechanical Engineering
+716,Male,Aerospace Engineering
+717,Female,Computer Science
+718,Male,Chemical Engineering
+719,Male,Electrical &amp; Computer Eng.
+720,Male,Biochemistry
+721,Male,Robotics Engineering
+722,Female,Mechanical Engineering
+723,Female,Biochemistry
+724,Female,Biomedical Engineering
+725,Male,Biomedical Engineering
+726,Male,Civil Engineering
+727,Male,Robotics Engineering
+728,Female,Mechanical Engineering
+729,Female,Biomedical Engineering
+730,Male,Mechanical Engineering
+731,Male,Civil Engineering
+732,Male,Robotics Engineering
+733,Male,Physics
+734,Male,Biomedical Engineering
+735,Male,Mechanical Engineering
+736,Male,Electrical &amp; Computer Eng.
+737,Female,Electrical &amp; Computer Eng.
+738,Female,Computer Science
+739,Female,Biology and Biotechnology
+740,Male,Computer Science
+741,Male,Computer Science
+742,Male,Chemical Engineering
+743,Female,Architectural Engineering
+744,Female,Biology and Biotechnology
+745,Male,Computer Science
+746,Male,Electrical &amp; Computer Eng.
+747,Male,Aerospace Engineering
+748,Female,Civil Engineering
+749,Female,Mechanical Engineering
+750,Male,Aerospace Engineering
+751,Male,Int Media &amp; Game Dev-Tech
+752,Male,Computer Science
+753,Male,Aerospace Engineering
+754,Male,Mechanical Engineering
+755,Male,Biomedical Engineering
+756,Female,Mathematical Sciences
+757,Male,Mechanical Engineering
+758,Female,Mechanical Engineering
+759,Male,Int Media &amp; Game Dev-Tech
+760,Female,Chemical Engineering
+761,Female,Computer Science
+762,Female,Biomedical Engineering
+763,Male,Robotics Engineering
+764,Male,Aerospace Engineering
+765,Female,Chemical Engineering
+766,Male,Int Media &amp; Game Dev-Tech
+767,Male,Mechanical Engineering
+768,Male,Computer Science
+769,Male,Mechanical Engineering
+770,Male,Computer Science
+771,Male,Computer Science
+772,Male,Electrical &amp; Computer Eng.
+773,Male,Computer Science
+774,Female,Biomedical Engineering
+775,Female,Biomedical Engineering
+776,Male,Robotics Engineering
+777,Female,Computer Science
+778,Female,Chemical Engineering
+779,Male,Electrical &amp; Computer Eng.
+780,Male,Computer Science
+781,Male,Computer Science
+782,Male,Computer Science
+783,Male,Aerospace Engineering
+784,Male,Computer Science
+785,Male,Biology and Biotechnology
+786,Male,Mechanical Engineering
+787,Female,Civil Engineering
+788,Female,Biology and Biotechnology
+789,Female,Chemical Engineering
+790,Male,Aerospace Engineering
+791,Male,Computer Science
+792,Male,Electrical &amp; Computer Eng.
+793,Male,Aerospace Engineering
+794,Male,Electrical &amp; Computer Eng.
+795,Male,Actuarial Mathematics
+796,Male,Mechanical Engineering
+797,Female,Mechanical Engineering
+798,Male,Biomedical Engineering
+799,Male,Mechanical Engineering
+800,Male,Robotics Engineering
+801,Female,Mechanical Engineering
+802,Female,Environmental Engineering
+803,Male,Computer Science
+804,Male,Biomedical Engineering
+805,Female,Physics
+806,Male,Electrical &amp; Computer Eng.
+807,Male,Computer Science
+808,Female,Aerospace Engineering
+809,Male,Mechanical Engineering
+810,Male,Biomedical Engineering
+811,Male,Biology and Biotechnology
+812,Male,Mechanical Engineering
+813,Male,Computer Science
+814,Male,Mechanical Engineering
+815,Male,Mechanical Engineering
+816,Male,Architectural Engineering
+817,Female,Industrial Engineering
+818,Male,Applied Physics
+819,Female,Biology and Biotechnology
+820,Male,Computer Science
+821,Male,Chemical Engineering
+822,Male,Industrial Engineering
+823,Male,Robotics Engineering
+824,Male,Computer Science
+825,Male,Chemical Engineering
+826,Male,Chemical Engineering
+827,Male,Electrical &amp; Computer Eng.
+828,Female,Biomedical Engineering
+829,Male,Mathematical Sciences
+830,Male,Biochemistry
+831,Male,Computer Science
+832,Male,Physics
+833,Male,Computer Science
+834,Male,Electrical &amp; Computer Eng.
+835,Male,Computer Science
+836,Female,Biomedical Engineering
+837,Female,Undecided
+838,Male,Civil Engineering
+839,Male,Computer Science
+840,Male,Computer Science
+841,Male,Mechanical Engineering
+842,Female,Chemical Engineering
+843,Male,Chemical Engineering
+844,Male,Aerospace Engineering
+845,Female,Physics
+846,Female,Biomedical Engineering
+847,Female,Mechanical Engineering
+848,Male,Electrical &amp; Computer Eng.
+849,Male,Robotics Engineering
+850,Male,Computer Science
+851,Female,Chemical Engineering
+852,Female,Mechanical Engineering
+853,Female,Architectural Engineering
+854,Female,Computer Science
+855,Male,Applied Physics
+856,Male,Robotics Engineering
+857,Male,Computer Science
+858,Female,Biomedical Engineering
+859,Female,Computer Science
+860,Female,Biomedical Engineering
+861,Male,Mechanical Engineering
+862,Female,Civil Engineering
+863,Male,Mechanical Engineering
+864,Female,Interactive Media &amp; Game Dev
+865,Male,Civil Engineering
+866,Male,Robotics Engineering
+867,Male,Electrical &amp; Computer Eng.
+868,Male,Mechanical Engineering
+869,Male,Mechanical Engineering
+870,Male,Electrical &amp; Computer Eng.
+871,Male,Robotics Engineering
+872,Male,Industrial Engineering
+873,Female,Electrical &amp; Computer Eng.
+874,Male,Mechanical Engineering
+875,Female,Computer Science
+876,Female,Chemical Engineering
+877,Male,Interactive Media &amp; Game Dev
+878,Male,Undecided
+879,Male,Electrical &amp; Computer Eng.
+880,Female,Interactive Media &amp; Game Dev
+881,Female,Architectural Engineering
+882,Female,Computer Science
+883,Male,Computer Science
+884,Male,Mechanical Engineering
+885,Female,Robotics Engineering
+886,Female,Biomedical Engineering
+887,Male,Chemical Engineering
+888,Female,Chemical Engineering
+889,Female,Computer Science
+890,Female,Biology and Biotechnology
+891,Male,Civil Engineering
+892,Male,Mechanical Engineering
+893,Female,Environmental Engineering
+894,Female,Computer Science
+895,Female,Mechanical Engineering
+896,Male,Chemistry
+897,Female,Chemistry
+898,Male,Mechanical Engineering
+899,Male,Computer Science
+900,Male,Aerospace Engineering
+901,Female,Interactive Media &amp; Game Dev
+902,Female,Mechanical Engineering
+903,Male,Engineering - To Be Declared
+904,Female,Chemical Engineering
+905,Male,Chemical Engineering
+906,Female,Undecided
+907,Female,Chemical Engineering
+908,Female,Computer Science
+909,Male,Electrical &amp; Computer Eng.
+910,Male,Computer Science
+911,Female,Mechanical Engineering
+912,Male,Computer Science
+913,Female,Biology and Biotechnology
+914,Male,Mechanical Engineering
+915,Female,Computer Science
+916,Male,Computer Science
+917,Female,Biomedical Engineering
+918,Male,Mechanical Engineering
+919,Female,Biology and Biotechnology
+920,Male,Chemical Engineering
+921,Female,Chemical Engineering
+922,Male,Computer Science
+923,Male,Computer Science
+924,Male,Chemical Engineering
+925,Male,Robotics Engineering
+926,Male,Computer Science
+927,Female,Environmental Engineering
+928,Female,Management Engineering
+929,Male,Electrical &amp; Computer Eng.
+930,Female,Actuarial Mathematics
+931,Male,Mechanical Engineering
+932,Male,Physics
+933,Male,Robotics Engineering
+934,Female,Computer Science
+935,Female,Mechanical Engineering
+936,Female,Biomedical Engineering
+937,Female,Civil Engineering
+938,Female,Management Engineering
+939,Female,Industrial Engineering
+940,Male,Biomedical Engineering
+941,Male,Computer Science
+942,Male,Business
+943,Female,Civil Engineering
+944,Male,Biomedical Engineering
+945,Male,Physics
+946,Male,Mechanical Engineering
+947,Male,Civil Engineering
+948,Male,Computer Science
+949,Male,Computer Science
+950,Female,Mechanical Engineering
+951,Male,Computer Science
+952,Male,Electrical &amp; Computer Eng.
+953,Male,Engineering - To Be Declared
+954,Male,Engineering - To Be Declared
+955,Female,Biomedical Engineering
+956,Male,Chemical Engineering
+957,Male,Management Engineering
+958,Female,Mathematical Sciences
+959,Female,Mechanical Engineering
+960,Male,Electrical &amp; Computer Eng.
+961,Male,Aerospace Engineering
+962,Female,Biomedical Engineering
+963,Female,Robotics Engineering
+964,Male,Civil Engineering
+965,Male,Business
+966,Female,Electrical &amp; Computer Eng.
+967,Male,Robotics Engineering
+968,Male,Computer Science
+969,Female,Biomedical Engineering
+970,Male,Aerospace Engineering
+971,Female,Mechanical Engineering
+972,Male,Robotics Engineering
+973,Male,Mechanical Engineering
+974,Male,Mechanical Engineering
+975,Male,Computer Science
+976,Male,Applied Physics
+977,Female,Biology and Biotechnology
+978,Female,Biomedical Engineering
+979,Female,Biochemistry
+980,Male,Aerospace Engineering
+981,Female,Chemical Engineering
+982,Male,Mechanical Engineering
+983,Male,Industrial Engineering
+984,Male,Aerospace Engineering
+985,Female,Biomedical Engineering
+986,Male,Computer Science
+987,Female,Biochemistry
+988,Male,Mechanical Engineering
+989,Male,Engineering - To Be Declared
+990,Male,Biomedical Engineering
+991,Female,Architectural Engineering
+992,Male,Robotics Engineering
+993,Male,Mechanical Engineering
+994,Female,Chemical Engineering
+995,Female,Electrical &amp; Computer Eng.
+996,Female,Computer Science
+997,Female,Civil Engineering
+998,Male,Aerospace Engineering
+999,Male,Electrical &amp; Computer Eng.
+1000,Female,Aerospace Engineering
+1001,Male,Electrical &amp; Computer Eng.
+1002,Female,Computer Science
+1003,Female,Aerospace Engineering
+1004,Female,Chemical Engineering
+1005,Male,Biomedical Engineering
+1006,Female,Aerospace Engineering
+1007,Female,Computer Science
+1008,Male,Computer Science
+1009,Male,Mechanical Engineering
+1010,Female,Industrial Engineering
+1011,Female,Mechanical Engineering
+1012,Male,Mathematical Sciences
+1013,Male,Robotics Engineering
+1014,Male,Mechanical Engineering
+1015,Male,Computer Science
+1016,Female,Biomedical Engineering
+1017,Male,Aerospace Engineering
+1018,Female,Electrical &amp; Computer Eng.
+1019,Female,Electrical &amp; Computer Eng.
+1020,Male,Mechanical Engineering
+1021,Male,Actuarial Mathematics
+1022,Male,Physics
+1023,Male,Electrical &amp; Computer Eng.
+1024,Female,Chemical Engineering
+1025,Male,Environmental Engineering
+1026,Male,Mechanical Engineering
+1027,Male,Actuarial Mathematics
+1028,Male,Mechanical Engineering
+1029,Female,Mechanical Engineering
+1030,Female,Biomedical Engineering
+1031,Male,Bioinformatics &amp; Computat Bio
+1032,Male,Civil Engineering
+1033,Female,Electrical &amp; Computer Eng.
+1034,Male,Computer Science
+1035,Male,Mechanical Engineering
+1036,Male,Mechanical Engineering
+1037,Male,Biomedical Engineering
+1038,Male,Robotics Engineering
+1039,Female,Chemical Engineering
+1040,Male,Physics
+1041,Male,Computer Science
+1042,Female,Chemical Engineering
+1043,Male,Robotics Engineering
+1044,Male,Aerospace Engineering
+1045,Female,Environmental Engineering
+1046,Male,Computer Science
+1047,Male,Mechanical Engineering
+1048,Female,Mechanical Engineering
+1049,Male,Biomedical Engineering
+1050,Male,Mechanical Engineering
+1051,Female,Computer Science
+1052,Male,Electrical &amp; Computer Eng.
+1053,Male,Electrical &amp; Computer Eng.
+1054,Male,Biology and Biotechnology
+1055,Female,Computer Science
+1056,Male,Chemical Engineering
+1057,Male,Computer Science
+1058,Female,Biomedical Engineering
+1059,Female,Bioinformatics &amp; Computat Bio
+1060,Male,Int Media &amp; Game Dev-Tech
+1061,Male,Mechanical Engineering
+1062,Male,Chemical Engineering
+1063,Male,Mechanical Engineering
+1064,Female,Mechanical Engineering
+1065,Female,Biomedical Engineering
+1066,Male,Mechanical Engineering
+1067,Male,Computer Science
+1068,Female,Mechanical Engineering
+1069,Male,Biology and Biotechnology
+1070,Male,Electrical &amp; Computer Eng.
+1071,Female,Biology and Biotechnology
+1072,Male,Computer Science
+1073,Female,Electrical &amp; Computer Eng.
+1074,Male,Robotics Engineering
+1075,Male,Biomedical Engineering
+1076,Female,Mechanical Engineering
+1077,Female,Chemistry
+1078,Male,Robotics Engineering
+1079,Male,Mechanical Engineering
+1080,Female,Biomedical Engineering
+1081,Male,Mechanical Engineering
+1082,Female,Biomedical Engineering
+1083,Female,Architectural Engineering
+1084,Female,Robotics Engineering
+1085,Male,Undecided
+1086,Male,Aerospace Engineering
+1087,Female,Biology and Biotechnology
+1088,Male,Mechanical Engineering
+1089,Male,Computer Science
+1090,Male,Electrical &amp; Computer Eng.
+1091,Male,Computer Science
+1092,Female,Electrical &amp; Computer Eng.
+1093,Female,Biology and Biotechnology
+1094,Male,Mechanical Engineering
+1095,Male,Computer Science
+1096,Female,Chemistry
+1097,Female,Biomedical Engineering
+1098,Female,Biomedical Engineering
+1099,Female,Biochemistry
+1100,Male,Aerospace Engineering
+1101,Male,Mechanical Engineering
+1102,Male,Electrical &amp; Computer Eng.
+1103,Female,Biology and Biotechnology
+1104,Female,Robotics Engineering
+1105,Male,Civil Engineering
+1106,Male,Electrical &amp; Computer Eng.
+1107,Male,Mechanical Engineering
+1108,Male,Computer Science
+1109,Male,Electrical &amp; Computer Eng.
+1110,Male,Undecided
+1111,Female,Biomedical Engineering
+1112,Male,Actuarial Mathematics
+1113,Male,Robotics Engineering
+1114,Female,Computer Science
+1115,Male,Undecided
+1116,Female,Biomedical Engineering
+1117,Female,Electrical &amp; Computer Eng.
+1118,Female,Biochemistry
+1119,Male,Applied Physics
+1120,Female,Mechanical Engineering
+1121,Female,Aerospace Engineering
+1122,Female,Interactive Media &amp; Game Dev
+1123,Male,Electrical &amp; Computer Eng.
+1124,Female,Mechanical Engineering
+1125,Male,Chemical Engineering
+1126,Female,Mechanical Engineering
