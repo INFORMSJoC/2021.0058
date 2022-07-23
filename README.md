@@ -16,19 +16,19 @@ Note: The present matching process requires students to rate each project center
 
 ## Cite
 
-To cite this data files, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+To cite this data files, please cite the [paper](https://doi.org/10.1287/ijoc.2021.0058) using its DOI and the software itself, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+[![DOI](https://zenodo.org/badge/516552677.svg)](https://zenodo.org/badge/latestdoi/516552677)
 
 Below is the BibTex for citing this version of the code.
 
 ```
 @article{CacheTest,
-  author =        {T. Ralphs},
+  author =        {},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest} Version v1.0},
-  year =          {2020},
-  doi =           {10.5281/zenodo.3977566},
-  url =           {https://github.com/INFORMSJoC/JoCTemplate},
+  title =         {{Data sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} Version v1.0},
+  year =          {2022},
+  doi =           {10.5281/zenodo.6892615},
+  url =           {https://github.com/INFORMSJoC/2021.0058},
 }  
 ```
