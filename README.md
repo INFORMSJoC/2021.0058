@@ -1,24 +1,22 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# CacheTest
+# Data for SPC Matching at WPI
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by T. Ralphs. 
-The snapshot is based on 
-[this SHA](https://github.com/tkralphs/JoCTemplate/commit/f7f30c63adbcb0811e5a133e1def696b74f3ba15) 
-in the development repository. 
+### WPI Datasets contain three datasets of the actual student to project center (SPC) matching at Worcester Polytechnic Institute (WPI) across three acedemic years including 2017-2018, 2018-2019, and 2019-2020. Each dataset containing in each folder represents each academic year including the following material in four .csv files:
 
-**Important: This code is being developed on an on-going basis at 
-https://github.com/tkralphs/JoCTemplate. Please go there if you would like to
-get a more recent version or would like support**
+- student_preference.csv contains an |S|x|P| matrix of student preference where an entry (s,p) in index s and column p indicates a preference value of student s at project center p. These values range between 0 and 1.
+- project_preference.csv contains an |S|x|P| matrix of project director preference where an entry (s,p) in index s and column p indicates a preference value of project director p on student s. These values range between 0 and 1.
+- project_capacity.csv contains the capacity of each project center where each row is a tuple of ProjectID and the corresponding Capacity.
+- student_info.csv contains the gender and major of students where each row is a tuple of StudentID, Gender, and Major.
+
+Note: The present matching process requires students to rate each project center in one of three tiers as Very Interested, Interested, or Not Interested, which are assigned student utility weights of 1, 0.5, and 0, respectively. In an effort to increase access, students are required to choose at least three project centers in the Very Interested tier and at least six options in the Very Interested and Interested tiers, combined. However, this requirement was applied after the academic year 2017-2018; moreover, during the process of selecting the final match outcome, administrators removed some project centers that lacked sufficient interest from students. Therefore, the final WPI datasets in the academic years 2018-2019 and 2019-2020 contain some select students where the number of rated project centers does not strictly adhere to the requirement.
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
+To cite this data files, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 
@@ -34,71 +32,3 @@ Below is the BibTex for citing this version of the code.
   url =           {https://github.com/INFORMSJoC/JoCTemplate},
 }  
 ```
-
-## Description
-
-The goal of this software is to demonstrate the effect of cache optimization.
-
-## Building
-
-In Linux, to build the version that multiplies all elements of a vector by a
-constant (used to obtain the results in [Figure 1](results/mult-test.png) in the
-paper), stepping K elements at a time, execute the following commands.
-
-```
-make mult
-```
-
-Alternatively, to build the version that sums the elements of a vector (used
-to obtain the results [Figure 2](results/sum-test.png) in the paper), stepping K
-elements at a time, do the following.
-
-```
-make clean
-make sum
-```
-
-Be sure to make clean before building a different version of the code.
-
-## Results
-
-Figure 1 in the paper shows the results of the multiplication test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/mult-test.png)
-
-Figure 2 in the paper shows the results of the sum test with different
-values of K using `gcc` 7.5 on an Ubuntu Linux box.
-
-![Figure 1](results/sum-test.png)
-
-## Replicating
-
-To replicate the results in [Figure 1](results/mult-test), do either
-
-```
-make mult-test
-```
-or
-```
-python test.py mult
-```
-To replicate the results in [Figure 2](results/sum-test), do either
-
-```
-make sum-test
-```
-or
-```
-python test.py sum
-```
-
-## Ongoing Development
-
-This code is being developed on an on-going basis at the author's
-[Github site](https://github.com/tkralphs/JoCTemplate).
-
-## Support
-
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
