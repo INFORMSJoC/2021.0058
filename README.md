@@ -24,7 +24,7 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{CacheTest,
-  author =        {},
+  author =        {Wiratchotisatian, Pitchaya},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Data sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} Version v1.0},
   year =          {2022},
