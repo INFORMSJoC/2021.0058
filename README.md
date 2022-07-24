@@ -23,12 +23,12 @@ To cite this data files, please cite the [paper](https://doi.org/10.1287/ijoc.20
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{CacheTest,
-  author =        {Wiratchotisatian, Pitchaya},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {{Data sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} Version v1.0},
-  year =          {2022},
-  doi =           {10.5281/zenodo.6892615},
-  url =           {https://github.com/INFORMSJoC/2021.0058},
+@article{SPC_Matching_WPI2022,
+  author =      {Wiratchotisatian, P., Atef Yekta, H., and Trapp, AC.},
+  publisher =   {INFORMS Journal on Computing},
+  title =       {{WPI Data Sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} v2021.0058},
+  year =        {2022},
+  doi =         {10.5281/zenodo.6892615},
+  url =         {https://github.com/INFORMSJoC/2021.0058},
 }  
 ```
