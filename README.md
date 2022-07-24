@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data for SPC Matching at WPI
+# WPI Data Sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
@@ -23,10 +23,10 @@ To cite this data files, please cite the [paper](https://doi.org/10.1287/ijoc.20
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{CacheTest,
-  author =        {Wiratchotisatian, Pitchaya},
+@article{SPC_Matching_WPI2022,
+  author =        {Wiratchotisatian, P., Atef Yekta, H., and Trapp, AC.},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{Data sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} Version v1.0},
+  title =         {{WPI Data Sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} v2021.0058},
   year =          {2022},
   doi =           {10.5281/zenodo.6892615},
   url =           {https://github.com/INFORMSJoC/2021.0058},
