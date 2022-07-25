@@ -23,7 +23,7 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{SPC_Matching_WPI2022,
-  author =        {Wiratchotisatian, P., Atef Yekta, H., and Trapp, AC.},
+  author =        {Wiratchotisatian, Pitchaya, Atef Yekta, Hoda, and Trapp, Andrew C.},
   publisher =     {INFORMS Journal on Computing},
   title =         {{WPI Data Sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} v2021.0058},
   year =          {2022},
