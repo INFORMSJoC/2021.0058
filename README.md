@@ -16,7 +16,7 @@ Note: The present matching process requires students to rate each project center
 
 ## Cite
 
-To cite this data files, please cite the paper, [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237), using its DOI and the software itself, using the following DOI.
+To cite this data files, please cite the paper, [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237), by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, using its DOI and the software itself, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/516552677.svg)](https://zenodo.org/badge/latestdoi/516552677)
 
