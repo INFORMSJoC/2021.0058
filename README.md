@@ -6,7 +6,7 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 It is associated with the paper Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach
-Pitchaya Wiratchotisatian, Hoda Atef Yekta, Andrew C. Trapp, found at ().
+Pitchaya Wiratchotisatian, Hoda Atef Yekta, Andrew C. Trapp, found at (https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1237).
 
 ### WPI Datasets contain three datasets of the actual student to project center (SPC) matching at Worcester Polytechnic Institute (WPI) across three acedemic years including 2017-2018, 2018-2019, and 2019-2020. Each dataset containing in each folder represents each academic year including the following material in four .csv files:
 
