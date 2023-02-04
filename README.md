@@ -1,6 +1,7 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data for SPC Matching at WPI
+# Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach
+Data for SPC Matching at WPI
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
