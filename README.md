@@ -9,7 +9,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 It is associated with the paper Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach
 by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, found at (https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1237).
 
-### WPI Datasets contain three datasets of the actual student to project center (SPC) matching at Worcester Polytechnic Institute (WPI) across three acedemic years including 2017-2018, 2018-2019, and 2019-2020. Each dataset containing in each folder represents each academic year including the following material in four .csv files:
+### WPI Datasets contain three datasets of the actual student-to-project center (SPC) matching at Worcester Polytechnic Institute (WPI) across three academic years including 2017-2018, 2018-2019, and 2019-2020. Each dataset containing in each folder represents each academic year including the following material in four .csv files:
 
 - student_preference.csv contains an |S|x|P| matrix of student preference where an entry (s,p) in index s and column p indicates a preference value of student s at project center p. These values range between 0 and 1.
 - project_preference.csv contains an |S|x|P| matrix of project director preference where an entry (s,p) in index s and column p indicates a preference value of project director p on student s. These values range between 0 and 1.
@@ -20,9 +20,7 @@ Note: The present matching process requires students to rate each project center
 
 ## Cite
 
-To cite this data files, please cite the paper, [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237), by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, using its DOI and the software itself, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/516552677.svg)](https://zenodo.org/badge/latestdoi/516552677)
+To cite this data, please cite the paper, [Stability Representations of Many-to-One Matching Problems: An Integer Optimization Approach](https://doi.org/10.1287/ijoc.2022.1237), by Pitchaya Wiratchotisatian, Hoda Atef Yekta, and Andrew C. Trapp, using its DOI and the software itself, using the following DOI: [10.1287/ijoc.2022.1237.cd](https://doi.org/10.1287/ijoc.2022.1237.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -32,7 +30,7 @@ Below is the BibTex for citing this version of the code.
   publisher =   {INFORMS Journal on Computing},
   title =       {{WPI Data Sets: A Comparative Study of Stability Representations for Solving Many-to-One Matching Problems with Utility-Weighted Objectives, Ties, and Incomplete Lists via Integer Optimization} v2021.0058},
   year =        {2022},
-  doi =         {10.5281/zenodo.6892615},
+  doi =         {10.1287/ijoc.2022.1237.cd},
   url =         {https://github.com/INFORMSJoC/2021.0058},
 }  
 ```
